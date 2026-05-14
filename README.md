@@ -9,6 +9,9 @@ This script:
 5. Attempts to duplicate a SYSTEM token.
 6. Spawns a SYSTEM `cmd.exe`.
 
+`Verified working in Windows 11 25H2 - build	26200.8457`
+
+
 ## Requirements
 
 Run from an elevated **64-bit PowerShell** window.
